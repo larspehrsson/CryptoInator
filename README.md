@@ -10,13 +10,9 @@ The image is encryptet using AES-256 bit encryption.
 You can zoom the picture with scroll-wheeler on the mouse by holding down the Control key.
 
 Credits go to:  
-[Oxygen Team for the ICON](https://www.iconfinder.com/icons/8794/cryptography_key_lock_log_in_login_password_security_unlock_icon#size=128)
-
-[Anthony Trudeau for the WIA scanning code](http://geekswithblogs.net/tonyt/archive/2006/07/29/86608.aspx)
-
-[Phira for the password quality meter](https://phiras.wordpress.com/2007/04/08/password-strength-meter-a-jquery-plugin/)
-
-[boogerjones for the Encryption part](http://www.neowin.net/forum/topic/967710-c-best-encryption-method-for-in-house-data/)
-
-[Heinz Doofenshmirtz for the Inator part](http://phineasandferb.wikia.com/wiki/List_of_Doofenshmirtz's_schemes_and_inventions)
+* [Oxygen Team for the ICON](https://www.iconfinder.com/icons/8794/cryptography_key_lock_log_in_login_password_security_unlock_icon#size=128)
+* [Anthony Trudeau for the WIA scanning code](http://geekswithblogs.net/tonyt/archive/2006/07/29/86608.aspx)
+* [Phira for the password quality meter](https://phiras.wordpress.com/2007/04/08/password-strength-meter-a-jquery-plugin/)
+* [boogerjones for the Encryption part](http://www.neowin.net/forum/topic/967710-c-best-encryption-method-for-in-house-data/)
+* [Heinz Doofenshmirtz for the Inator part](http://phineasandferb.wikia.com/wiki/List_of_Doofenshmirtz's_schemes_and_inventions)
 
