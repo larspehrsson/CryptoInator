@@ -213,6 +213,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+CryptoInator/
 
 # GhostDoc plugin setting file
 *.GhostDoc.xml
